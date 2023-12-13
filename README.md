@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Tecnology enthusiastic
+- 🤔 &nbsp; Technology enthusiastic
 - 💻 &nbsp; Back-end Developer from Brazil
 - 🎓 &nbsp; Graduated in Web Develoment at Le wagon bootcamp
 - 🎓 &nbsp; Studying Analysis and Systems Development at Mackenzie Presbyterian University
