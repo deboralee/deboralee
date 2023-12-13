@@ -58,12 +58,14 @@
 <br>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">           
   <br>
+  ### 💻 Tecnologies that I've learnt
+  <p  align="center">
 
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*2F7mZXmvBIhZKr4nH4fe7g.png" height="25"/>
   
-
+  </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
@@ -78,14 +80,6 @@
 
 
 
-
-
-
-<br>
-
- <br> 
- 
- <hr>
  
  <br>
 
