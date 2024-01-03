@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Technology enthusiastic
 - 💻 &nbsp; Full-Stack Developer from Brazil
-- 🎓 &nbsp; Graduated in Web Develoment at Le wagon bootcamp
+- 🎓 &nbsp; Graduated in Web Development at Le wagon bootcamp
 - 🎓 &nbsp; Studying Analysis and Systems Development at Mackenzie Presbyterian University
 
 
